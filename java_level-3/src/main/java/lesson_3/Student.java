@@ -21,7 +21,7 @@ class MainStudent{
 
     public static void main(String[] args) throws IOException, ClassNotFoundException {
 //        Student student = new Student(10, "Bob");
-//
+
 //        ObjectOutputStream objectOutputStream = new ObjectOutputStream(new FileOutputStream("student.serialize"));
 //        objectOutputStream.writeObject(student);
 //        objectOutputStream.close();
