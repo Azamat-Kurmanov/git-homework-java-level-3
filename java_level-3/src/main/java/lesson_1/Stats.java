@@ -18,6 +18,8 @@ public class Stats <T extends Number> {
     }
 
     public boolean sameAvg(Stats<? extends Number> another){
+//        System.out.println(this.avg() + " - " + another.avg() + " = Math.abs("+Math.abs(this.avg() - another.avg())+")");
+//        System.out.println("Без Math.abs = "+(this.avg() - another.avg()));
         return Math.abs(this.avg() - another.avg()) < 0.0001;
     }
 }
