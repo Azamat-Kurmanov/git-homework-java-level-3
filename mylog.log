@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2022-10-24T20:49:05.172534500Z</date>
+  <millis>1666644545172</millis>
+  <nanos>534500</nanos>
+  <sequence>1</sequence>
+  <logger></logger>
+  <level>WARNING</level>
+  <class>lesson_6.Main</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Info Message</message>
+</record>
+<record>
+  <date>2022-10-24T20:49:05.188172300Z</date>
+  <millis>1666644545188</millis>
+  <nanos>172300</nanos>
+  <sequence>2</sequence>
+  <logger></logger>
+  <level>CONFIG</level>
+  <class>lesson_6.Main</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Info Message</message>
+</record>
+<record>
+  <date>2022-10-24T20:49:05.188172300Z</date>
+  <millis>1666644545188</millis>
+  <nanos>172300</nanos>
+  <sequence>3</sequence>
+  <logger></logger>
+  <level>FINER</level>
+  <class>lesson_6.Main</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Info Message</message>
+</record>
+</log>

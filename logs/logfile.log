@@ -1,0 +1,9 @@
+INFO  2022-10-25 03:20:42 [main] lesson_6.Main (Main.java:31) - Info
+DEBUG 2022-10-25 03:20:42 [main] lesson_6.Main (Main.java:32) - Debug
+ERROR 2022-10-25 03:20:42 [main] lesson_6.Main (Main.java:33) - Error
+WARN  2022-10-25 03:20:42 [main] lesson_6.Main (Main.java:34) - Warning
+INFO  2022-10-25 03:25:20 [main] lesson_6.Main (Main.java:31) - Info
+ERROR 2022-10-25 03:25:20 [main] lesson_6.Main (Main.java:32) - Error
+WARN  2022-10-25 03:25:20 [main] lesson_6.Main (Main.java:33) - Warning
+DEBUG 2022-10-25 03:25:20 [main] lesson_6.Main (Main.java:36) - Debug
+INFO  2022-10-25 03:25:20 [main] lesson_6.Main (Main.java:39) - INFO MESSAGE text
